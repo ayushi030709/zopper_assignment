@@ -13,7 +13,9 @@ Simulation and analysis of 1,000,000 car insurance policies sold in 2024, with c
 | `Zopper_BI_Approach_Report.docx` | Written report — methodology, assumptions, insights |
 | `policy_sales_data.csv` | Full 1,000,000 policy records |
 | `claims_data.csv` | Full 49,340 claim records |
-
+| `simulate.py` | Python script — data simulation + all analytical queries |
+| `build_excel.py` | Python script — Excel workbook generation |
+| `build_report.js` | Node.js script — Word report generation |
 
 ---
 
